@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa32e1e83f82447e8d708b05eb5a322d, type: 3}
+  m_Name: Cubes Config
+  m_EditorClassIdentifier: 
+  Cubes:
+  - ID: 1
+    ColorSprite: {fileID: 1761912155, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 2
+    ColorSprite: {fileID: -149391960, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 3
+    ColorSprite: {fileID: 297261028, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 4
+    ColorSprite: {fileID: 631055154, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 5
+    ColorSprite: {fileID: -119135603, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 6
+    ColorSprite: {fileID: -1889488795, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 7
+    ColorSprite: {fileID: 1658901403, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 100, y: 100}
+  - ID: 8
+    ColorSprite: {fileID: 1639254652, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 200, y: 100}
+  - ID: 9
+    ColorSprite: {fileID: 2013880780, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 200, y: 100}
+  - ID: 10
+    ColorSprite: {fileID: -1235174925, guid: ef0b2ed4baba5fa2fa0d7a4ad31f7281, type: 3}
+    Size: {x: 200, y: 100}
